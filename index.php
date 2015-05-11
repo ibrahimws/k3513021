@@ -205,3 +205,4 @@ require_once BASEPATH.'core/CodeIgniter.php';
 /* Location: ./index.php */
 
 //Ditambahkan oleh Ibrahim WS
+//Diedit teman oleh K3513043
